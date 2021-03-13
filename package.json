@@ -1,0 +1,9 @@
+{
+  "name": "acheulean",
+  "version": "0.0.0",
+  "description": "a bakery & cafe project",
+  "main": "index.js",
+  "repository": "https://github.com/lamuses/acheulean.git",
+  "author": "lamuses <lamuses@outlook.com>",
+  "license": "MIT"
+}
