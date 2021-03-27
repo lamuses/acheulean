@@ -16,7 +16,10 @@
   },
   "dependencies": {
     "inquirer": "^8.0.0",
-    "@spare/logger": "^0.11.10"
+    "@spare/logger": "^0.11.11",
+    "@vect/vector": "^0.3.8",
+    "@vect/object": "^0.3.8",
+    "@aryth/math": "^0.3.14"
   },
   "repository": {
     "type": "git",
