@@ -6,6 +6,7 @@
     "packages/*/*"
   ],
   "scripts": {
+    "bake-guide": "node -r @babel/register packages/bakery/test/cli.test.js",
     "bootstrap": "lerna bootstrap",
     "prewatch": "npm run bootstrap",
     "ckv": "yarn outdated --latest",
