@@ -42,5 +42,8 @@
   },
   "repository": "https://github.com/lamuses/acheulean.git",
   "author": "lamuses <lamuses@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^7.7.6"
+  }
 }
