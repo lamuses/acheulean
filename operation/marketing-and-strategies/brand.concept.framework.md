@@ -31,3 +31,23 @@
   - 差异化点(突出,易记)
 
 - 我们怎么接触到他们？(What distribution channel are we going to use to reach these target audiences?)
+
+
+
+### Answers
+
+- 目标人群：
+  
+  - Experiencer(EX): 健康和身体管理持续改进动力, 自我超越.
+  
+  - Trendy achiever(TA): 健康和身材管理作为时尚标杆来追求, 与其他潮流人士趋同, 希望被看到, 和流行词汇和高颜值意象建立联系.
+
+- 潜在需求:
+  
+  - 修复: 足够的能量注入身体, 来匹配不断前进的灵魂
+  
+  - 打造希腊雕塑一样的身体
+  
+  - 在人群中产生一石激起千层浪般的影响
+  
+  - 帮助EX&TA管理健康 
