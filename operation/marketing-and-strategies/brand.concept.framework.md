@@ -1,7 +1,9 @@
 ### Questions
 
 - 我们的消费者和他的朋友阐述我们的店铺的时候，怎么讲？
-
+  - 好吃的麦香
+  - 搭配鸡蛋 火腿 奶酪做成三明治特别好吃
+  - 自己吃 家人吃 都很健康
 - 我们的目标人群是谁？(Who are our target audiences?)
   
   - 人口统计学(Demographic)
@@ -17,7 +19,6 @@
     - 购买过程的长短
     
     - 购买参与度(involvement)
-
 - 他们为什么选我们？(Why are they selecting us over competition?)
   
   - 重要需求 vs 潜在需求
@@ -31,7 +32,6 @@
   - 差异化点(突出,易记)
   
   - 我们的品牌因为什么被记住？我们要建立什么样的口碑？
-
 - 我们怎么接触到他们？(What distribution channel are we going to use to reach these target audiences?)
 
 ### Answers
