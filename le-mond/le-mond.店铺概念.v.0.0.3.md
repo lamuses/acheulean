@@ -4,7 +4,7 @@ Le Mond inject dynamism of modernity to community, enable people to better colla
 
 ### Customer portrait
 
-- **Bright young people** in fancy dresses, we provide them a daytime gather place before night life.
+- **Bright young people** in fancy dresses. We provide them a daytime gather place before night life.
 
   This is opposed to dimmed mediocre people.
 
